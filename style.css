@@ -1,0 +1,52 @@
+table tr{
+    
+    margin: 10px;
+}
+td {
+    width: 20px;
+    height: 15px;
+    border: 0.3px solid #282527;
+    text-align: center;
+    vertical-align: middle;
+    background-color: beige;
+}
+.Black
+{
+    background-color: black;
+}
+.Gray
+{
+    background-color: gray;
+}
+.Yellow
+{
+    background-color: rgb(255, 247, 0);
+}
+.Orange
+{
+    background-color: orange;
+}
+.Brown
+{
+    background-color: brown;
+}
+.Lightyellow
+{
+    background-color: rgb(241, 241, 79);
+}
+.Red
+{
+    background-color: red;
+}
+.Lightred
+{
+    background-color: rgb(236, 81, 81);
+}
+.Darkred
+{
+    background-color: rgb(227, 3, 3);
+}
+.Darkorange
+{
+    background-color: darkorange;
+}
